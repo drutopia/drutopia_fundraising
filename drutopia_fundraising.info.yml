@@ -1,5 +1,6 @@
 name: Drutopia Fundraising
 type: module
+description: Accept donations on your site through Stripe. Each donation is recorded for the team to make use of.
 core: 8.x
 dependencies:
   - give
