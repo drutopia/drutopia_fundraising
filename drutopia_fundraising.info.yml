@@ -1,0 +1,6 @@
+name: Fundraising
+type: module
+core: 8.x
+dependencies:
+  - give
+package: Drutopia
